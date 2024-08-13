@@ -16,4 +16,4 @@ Este projeto fornece uma implementação simples e elegante de um menu lateral u
   
 🎨 **Menu** 
 
-<a href="google.com">Projeto</a>
+<a href="https://menu-lateral-pi.vercel.app/">Projeto</a>
